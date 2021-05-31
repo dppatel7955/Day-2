@@ -1,0 +1,46 @@
+div{
+	height: 400px;
+	width: 490px;
+	margin-top: 70px;
+	margin-left: 500px;
+	background-color: lightgreen;
+	border-radius: 50px;
+}
+table{
+	height: 400px;
+	width: 450px;
+}
+.t1{
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+input[type=text]{
+	font-size: 13px;
+	height: 100%;
+	border-radius: 13px;
+	padding-left: 15px;
+	background-color: white;
+}
+input[type=email]{
+	font-size: 13px;
+	height: 100%;
+	width: 100%;
+	border-radius: 13px;
+	background-color: white;
+}
+input[type=password]{
+	font-size: 13px;
+	height: 100%;
+	width: 100%;
+	border-radius: 13px;
+	background-color: white;
+}
+button{
+	font-size: 13px;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	border-radius: 13px;
+}
+
